@@ -1,7 +1,6 @@
 # 👋 Bonjour, je suis @celiamartinelli
 
-- 👀 Je suis intéressée par le développement web, les technologies de l'IA, et les projets open-source.
-- 🌱 J'apprends actuellement React.js et approfondis mes compétences en développement mobile avec React Native.
+- 🌱 J'apprends actuellement Tailind et approfondis mes compétences en développement mobile avec React Native.
 - 💞️ Je cherche à collaborer sur des projets de développement web et des applications mobiles.
 - 📫 Vous pouvez me contacter à celia.martinelli2@gmail.com.
 - 😄 Pronoms : elle/elle
@@ -29,7 +28,7 @@
 ## Compétences
 
 ### Front-End
-- **React / Redux**
+- **React / Redux / TypeScript**
 - **JavaScript Vanilla / React Native**
 - **HTML5 / CSS3 / Sass / Tailwind / Material UI / Semantic UI**
 
