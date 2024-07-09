@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis @celiamartinelli
 
-- 🌱 J'apprends actuellement Tailind et approfondis mes compétences en développement mobile avec React Native.
+- 🌱 J'apprends actuellement Tailwind et approfondis mes compétences en développement mobile avec React Native.
 - 💞️ Je cherche à collaborer sur des projets de développement web et des applications mobiles.
 - 📫 Vous pouvez me contacter à celia.martinelli2@gmail.com.
 - 😄 Pronoms : elle/elle
