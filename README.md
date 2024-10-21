@@ -1,9 +1,8 @@
 # 👋 Bonjour, je suis @celiamartinelli
 
-- 🌱 J'apprends actuellement Tailwind et approfondis mes compétences en développement mobile avec React Native.
+- 🌱 J'apprends actuellement Next.js et approfondis mes compétences en développement mobile avec React Native.
 - 💞️ Je cherche à collaborer sur des projets de développement web et des applications mobiles.
 - 📫 Vous pouvez me contacter à celia.martinelli2@gmail.com.
-- 😄 Pronoms : elle/elle
 - ⚡ Fait amusant : En dehors du codage, je suis passionnée par la couture et la confection de cosmétiques maison.
 
 ## Expérience
@@ -55,6 +54,7 @@
 
 ## Contactez-moi
 
+- Potfolio : [Portfolio](https://celia-martinelli.netlify.app/)
 - LinkedIn : [Celia Martinelli](https://www.linkedin.com/in/celiamartinelli)
 - GitHub : [celiamartinelli](https://github.com/celiamartinelli)
 
