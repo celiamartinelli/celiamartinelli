@@ -1,7 +1,6 @@
 # 👋 Bonjour, je suis **Célia Martinelli**  
 # 💻 **Développeuse Web & Mobile**
 
----
 
 ### 🌱 À propos de moi
 Développeuse web passionnée par la conception d’applications et l’architecture des fonctionnalités.  
@@ -12,8 +11,6 @@ Actuellement, je continue d’approfondir **Next.js**, **React Native** et l’�
 ---
 ### 🚀 Expériences
 
----
-
 #### **Double vie pro (actuellement)**  
 📆 01-2025 → aujourd’hui  
 
@@ -22,7 +19,6 @@ Actuellement, je continue d’approfondir **Next.js**, **React Native** et l’�
 
 Une organisation millimétrée, entre rigueur terrain et passion du code, en attendant de rejoindre une équipe tech à temps plein.
 
----
 
 #### **Développeuse Web & Mobile** – *Start Up Yuli*  
 📆 03-2024 → 08-2024  
@@ -35,7 +31,6 @@ Application iOS & Android spécialisée dans le bien-être animal, développée 
 
 Travail en autonomie et en collaboration (2 développeurs).
 
----
 
 #### **Développeuse Web – Projet de fin de formation** – *École O’Clock*  
 📆 01-2024 → 02-2024  
@@ -54,8 +49,6 @@ Réalisation d’une application web en équipe, de la conception au déploiemen
 ---
 
 ### 🛠️ Compétences techniques
-
-----
 
 #### **Front-End**
 - JavaScript / TypeScript  
@@ -85,6 +78,7 @@ Réalisation d’une application web en équipe, de la conception au déploiemen
 ---
 
 ### 🎓 Formation
+
 - **Développeur Web & Web Mobile** – École O’Clock (2023–2024)  
   *Titre professionnel niveau V – 798h intensives*
 
@@ -102,7 +96,6 @@ Réalisation d’une application web en équipe, de la conception au déploiemen
 
 ---
 ### 📫 Me contacter
----
 
 - 📧 **Email** : celia.martinelli2@gmail.com  
 - 💼 **LinkedIn** : www.linkedin.com/in/celiamartinelli  
@@ -110,7 +103,6 @@ Réalisation d’une application web en équipe, de la conception au déploiemen
 - 🧑‍💻 **GitHub** : https://github.com/celiamartinelli  
 
 ---
-
 
 
 // ┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼█┼█┼█┼█┼█┼█┼█┼█┼█
