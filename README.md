@@ -11,7 +11,7 @@ Actuellement, je continue d’approfondir **Next.js**, **React Native** et l’�
 ---
 ### 🚀 Expériences
 
-#### **Double vie pro (actuellement)**  
+#### Double vie pro (actuellement)  
 📆 01-2025 → aujourd’hui  
 
 - Matin : Agent de mise en rayon  
@@ -20,7 +20,7 @@ Actuellement, je continue d’approfondir **Next.js**, **React Native** et l’�
 Une organisation millimétrée, entre rigueur terrain et passion du code, en attendant de rejoindre une équipe tech à temps plein.
 
 
-#### **Développeuse Web & Mobile** – *Start Up Yuli*  
+#### Développeuse Web & Mobile – *Start Up Yuli*  
 📆 03-2024 → 08-2024  
 Application iOS & Android spécialisée dans le bien-être animal, développée en équipe.
 
@@ -32,7 +32,7 @@ Application iOS & Android spécialisée dans le bien-être animal, développée 
 Travail en autonomie et en collaboration (2 développeurs).
 
 
-#### **Développeuse Web – Projet de fin de formation** – *École O’Clock*  
+#### Développeuse Web – Projet de fin de formation – *École O’Clock*  
 📆 01-2024 → 02-2024  
 Réalisation d’une application web en équipe, de la conception au déploiement d’un MVP, en méthodologie agile.
 
