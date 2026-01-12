@@ -1,5 +1,5 @@
-#👋 Bonjour, je suis **Célia Martinelli**  
-#💻 **Développeuse Web & Mobile**
+# 👋 Bonjour, je suis **Célia Martinelli**  
+# 💻 **Développeuse Web & Mobile**
 
 ---
 
